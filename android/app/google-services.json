@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658964894895",
+    "project_id": "playwith-de207",
+    "storage_bucket": "playwith-de207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658964894895:android:1467208d438a69c1b8705a",
+        "android_client_info": {
+          "package_name": "com.example.playwith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658964894895-1bomplavdhe01ifkm3n9nfjrerpg0vpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIJtEM7LxQhG2jhivREsTUaUSS073R6Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658964894895-1bomplavdhe01ifkm3n9nfjrerpg0vpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
